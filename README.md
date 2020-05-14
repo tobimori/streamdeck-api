@@ -115,9 +115,9 @@ The plain, Shields.io & Badgen endpoints only return the total downloads.
 ### Download count by author
 
 ```
-/downloads/author/:author
+/downloads/author/:authorSlug
 ```
-An example author is `elgato` or `tobimori` and needs to be included in the plugin identifier.
+An example author slug is `elgato` or `tobimori` which is usually included in the plugin identifier.
 
 Example response
 
