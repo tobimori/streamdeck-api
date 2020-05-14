@@ -104,7 +104,7 @@ Example response
   "plugins": {
     "com.elgato.counter": 30482,
     "de.tobimori.streamdeck.ifttt": 14295,
-    "com.barraider.obstools": 26724
+    [...]
   },
   "totalDownloads": 71501
 }
@@ -126,15 +126,7 @@ Example response
   "plugins": {
     "com.elgato.counter": 30482,
     "com.elgato.cpu": 110937,
-    "com.elgato.analogclock": 75027,
-    "com.elgato.blacklist": 0,
-    "com.elgato.philips-hue": 39138,
-    "com.elgato.memorygame": 12883,
-    "com.elgato.reactiondeck": 5673,
-    "com.elgato.controlcenter": 597601,
-    "com.elgato.4kcu": 6964,
-    "com.elgato.keycreator": 63,
-    "com.elgato.applemail": 4935
+    [...]
   },
   "totalDownloads": 883703
 }
