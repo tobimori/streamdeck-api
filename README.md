@@ -20,7 +20,7 @@
 ## Schema
 All API access happens over HTTPS, using GET requests and is accessed from `https://streamdeck.api.moeritz.io/api/`, that means that a usual call is a GET request to an url that may looks like `https://streamdeck.api.moeritz.io/api/json/downloads/author/tobimori` or similar urls.
 
-All requests are cached server-side for 6 hours.
+All requests are cached server-side for an hour.
 
 ## JSON
 All API endpoints are available as a json version with full functionality.
