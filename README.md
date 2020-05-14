@@ -18,22 +18,13 @@
 </p>
 
 ## Schema
-All API access happens over HTTPS, using GET requests and is accessed from `https://streamdeck.api.moeritz.io/api/`, that means that a usual call is a GET request to an url that may looks like `https://streamdeck.api.moeritz.io/api/json/downloads/author/tobimori` or similar urls.
-
-All requests are cached server-side for an hour.
+All API access happens over HTTPS, using GET requests and is accessed from `https://streamdeck.api.moeritz.io/api/`, that means that a usual call is a GET request to an url that may looks like `https://streamdeck.api.moeritz.io/api/json/downloads/author/tobimori` or similar urls. All content is served as JSON and cached server-side for an hour.
 
 ## JSON
 All API endpoints are available as a json version with full functionality.
 
 ```
 https://streamdeck.api.moeritz.io/api/json/...
-```
-
-## Plain
-All API endpoints are also available as a plain version with limited functionality.
-
-```
-https://streamdeck.api.moeritz.io/api/plain/...
 ```
 
 ## Shields.io
@@ -88,7 +79,7 @@ Example response
   "totalDownloads": 2155526
 ```
 
-The plain, Shields.io & Badgen endpoints only return the total downloads.
+The Shields.io & Badgen endpoints only return the total downloads.
 
 ### Download count by plugin identifiers
 
@@ -110,7 +101,7 @@ Example response
 }
 ```
 
-The plain, Shields.io & Badgen endpoints only return the total downloads.
+The Shields.io & Badgen endpoints only return the total downloads.
 
 ### Download count by author
 
@@ -132,4 +123,4 @@ Example response
 }
 ```
 
-The plain, Shields.io & Badgen endpoints only return the total downloads.
+The Shields.io & Badgen endpoints only return the total downloads.
