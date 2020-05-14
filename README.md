@@ -68,6 +68,26 @@ Which outputs:
 
 ## Endpoints
 
+### Download count of all plugins
+
+```
+/downloads/all
+```
+
+Example response
+
+```json
+{
+  "plugins": {
+    "com.baptiewright.nanoleaf": 8906,
+    "de.kaleidox.vbandeck": 3196,
+    [...]
+  },
+  "totalDownloads": 2155526
+```
+
+The plain, Shields.io & Badgen endpoints only return the total downloads.
+
 ### Download count by plugin identifiers
 
 ```
