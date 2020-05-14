@@ -1,12 +1,14 @@
 {
-  "name": "with-styled-components",
+  "name": "streamdeck-api",
   "version": "1.0.0",
+  "private": true,
   "scripts": {
     "dev": "next",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.19.2",
     "next": "latest",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
@@ -15,5 +17,5 @@
   "devDependencies": {
     "babel-plugin-styled-components": "^1.8.0"
   },
-  "license": "ISC"
+  "license": "MIT"
 }
