@@ -1,7 +1,14 @@
 {
   "name": "streamdeck-api",
+  "description": "Serverless Stream Deck Store API & custom Shields.io endpoint powered by Next.js & Vercel ⯅",
   "version": "1.0.0",
-  "private": true,
+  "license": "MIT",
+  "author": "tobimori <tobias@moeritz.cc",
+  "homepage": "https://streamdeck.api.moeritz.io/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobimori/streamdeck-api.git"
+  },
   "scripts": {
     "dev": "next",
     "build": "next build",
@@ -18,6 +25,5 @@
   },
   "devDependencies": {
     "babel-plugin-styled-components": "^1.8.0"
-  },
-  "license": "MIT"
+  }
 }
