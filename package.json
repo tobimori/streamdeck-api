@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
+    "cors": "^2.8.5",
     "next": "latest",
+    "nextjs-redirect": "^2.0.2",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
     "styled-components": "^5.0.0"
