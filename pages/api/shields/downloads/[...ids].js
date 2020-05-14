@@ -12,7 +12,6 @@ module.exports = async (req, res) => {
   await cors(req, res);
 
   return new Promise((resolve, reject) => {
-    console.info(`Received /api/shields/downloads/${req.query.ids.join('/')}`);
     // get stream deck catalog
     axios.get('https://appstore.elgato.com/streamDeckPlugin/catalog.json')
       .then(async (extres) => {
