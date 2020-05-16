@@ -5,11 +5,15 @@
   streamdeck-api
 </h1>
 <p align="center">
-  <img src="https://img.shields.io/github/deployments/tobimori/streamdeck-api/production?label=deploy&logo=zeit" />
-  <img src="https://img.shields.io/github/package-json/v/tobimori/streamdeck-api" />
-  <img src="https://img.shields.io/maintenance/yes/2020" alt="Maintained (as of 2020)" />
+  <a href="https://twitter.com/tobimori">
+    <img src="https://img.shields.io/twitter/follow/tobimori?color=%231da1f2&label=follow%20%40tobimori&logo=twitter&logoColor=white&style=flat-square" alt="follow @tobimori on twitter" />
+  </a>
+  <a href="https://github.com/tobimori/streamdeck-api/deployments">
+    <img src="https://img.shields.io/github/deployments/tobimori/streamdeck-api/production?logo=zeit&logoColor=white&style=flat-square" />
+  </a>
+  <img src="https://img.shields.io/github/package-json/v/tobimori/streamdeck-api&style=flat-square" alt="Version number" />
   <a href="https://github.com/tobimori/streamdeck-api/issues">
-    <img src="https://img.shields.io/github/issues/tobimori/streamdeck-api" />
+    <img src="https://img.shields.io/github/issues/tobimori/streamdeck-api?logo=github&style=flat-square" alt="Open issues" />
   </a>
 </p>
 
