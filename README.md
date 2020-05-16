@@ -11,7 +11,7 @@
   <a href="https://github.com/tobimori/streamdeck-api/deployments">
     <img src="https://img.shields.io/github/deployments/tobimori/streamdeck-api/production?logo=zeit&logoColor=white&style=flat-square" />
   </a>
-  <img src="https://img.shields.io/github/package-json/v/tobimori/streamdeck-api&style=flat-square" alt="Version number" />
+  <img src="https://img.shields.io/github/package-json/v/tobimori/streamdeck-api?style=flat-square" alt="Version number" />
   <a href="https://github.com/tobimori/streamdeck-api/issues">
     <img src="https://img.shields.io/github/issues/tobimori/streamdeck-api?logo=github&style=flat-square" alt="Open issues" />
   </a>
